@@ -1,0 +1,14 @@
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\Bin\Debug\ApplicationIcon.png
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\Bin\Debug\Background.png
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\Bin\Debug\DemoMarqueeTextBlock.dll
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\Bin\Debug\DemoMarqueeTextBlock.pdb
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\Bin\Debug\AppManifest.xaml
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\Bin\Debug\DemoMarqueeTextBlock.xap
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\obj\Debug\ResolveAssemblyReference.cache
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\obj\Debug\App.g.i.cs
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\obj\Debug\MainPage.g.i.cs
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\obj\Debug\MarqueeTextBlock.g.i.cs
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\obj\Debug\DemoMarqueeTextBlock.g.resources
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\obj\Debug\DemoMarqueeTextBlock.dll
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\obj\Debug\DemoMarqueeTextBlock.pdb
+E:\YamaProjects\Visual 2010 Projects\DemoMarqueeTextBlock\DemoMarqueeTextBlock\obj\Debug\XapCacheFile.xml
